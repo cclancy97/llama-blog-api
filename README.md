@@ -1,7 +1,7 @@
 # Llama Blogging Platform
-Front-end [ [Repo](https://github.com/the-llamas/Front-End---Blog) / [Deployed](https://the-llamas.github.io/Front-End---Blog) ]
+Front-end [ [Repo](https://github.com/cclancy97/llama-blog) / [Deployed site](https://cclancy97.github.io/llama-blog/) ]
 
-Back-end [ [Repo](https://github.com/the-llamas/blog-api) / [Deployed](https://blog-api-back-end.herokuapp.com) ]
+Back-end [Deployed API](https://secure-wave-76146.herokuapp.com)
 ​
 ## Summary
 This is a blogging plaform for blogging about llamas!
